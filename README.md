@@ -1,21 +1,24 @@
 ![logo](https://github.com/AmitJ2005/AmitJ2005/blob/main/White%20Minimalist%20Data%20Analyst%20LinkedIn%20Background%20Photo.jpg)
 <h1 align="center">Hi 👋, I'm Amit Jaiswal</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<!-- <h3 align="center">A passionate Data Scientist from India</h3> -->
+  <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=A+Passionate+Data+Scientist+%3A)" />
+  </h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitj2005&label=Profile%20views&color=0e75b6&style=flat" alt="amitj2005" /> </p>
 
-- 🌱 I’m currently learning **Machine learning & Deep learning**
+- 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **DL and AI**
+- 💬 Ask me about **Machine Learning, Deep Learning and Artificial Intelligence**
 
-- 📫 How to reach me **amitjaisawal0123@gmail.com**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://amit-portfolio.streamlit.app" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/amitjaiswal108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amitjaiswal108" height="30" width="40" /></a>
+  <a href="https://kaggle.com/amitjaiswal108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amitjaiswal108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
