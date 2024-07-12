@@ -1,4 +1,5 @@
-![logo](https://github.com/AmitJ2005/AmitJ2005/blob/main/White%20Minimalist%20Data%20Analyst%20LinkedIn%20Background%20Photo.jpg)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <h1 align="center">Hi 👋, I'm Amit Jaiswal</h1>
 <!-- <h3 align="center">A passionate Data Scientist from India</h3> -->
   <h3 align="center">
