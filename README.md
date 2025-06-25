@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning and Artificial Intelligence**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://amit-portfolio.streamlit.app" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://amitjaiswal.netlify.app/" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
