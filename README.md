@@ -3,10 +3,10 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <h1 align="center">Hi 👋, I'm Amit Jaiswal</h1>
-<!-- <h3 align="center">A passionate Data Scientist from India</h3> -->
-  <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=A+Passionate+Data+Scientist+%3A)" />
-  </h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&center=true&vCenter=true&width=600&lines=Co-Founder+of+MeowMomo;AI+Automation+Engineer;Full+Stack+Developer" />
+</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif"> -->
 
